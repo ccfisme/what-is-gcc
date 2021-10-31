@@ -1,1 +1,1 @@
-# what-is-gcc
+本文旨在了解gcc编译器
