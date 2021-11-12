@@ -1,3 +1,2 @@
-本文旨在了解gcc编译器  
+> 一般是在用户目录下，Mac在/ccf下，Linux在/root下（这是Linux root后的主目录），可以在vim后的界面用：pwd命令查看
 
-重点参考[城东书院](http://www.cdsy.xyz/computer/programme/gcc/20210307/cd161510538411480.html)
