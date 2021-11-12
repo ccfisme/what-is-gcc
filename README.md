@@ -1,4 +1,4 @@
-> 一般是在用户目录下，Mac在`/User/ccf`下，Linux正常在`/hoem/admin`下，root后在`/root`目录下，可以在vim后的界面用[:pwd命令](https://www.google.com/search?q=pwd%E5%91%BD%E4%BB%A4&oq=pwd&aqs=chrome.1.69i57j0i512l5j46i512j0i512l2j46i512.2146j0j7&sourceid=chrome&ie=UTF-8)(print work directory，查看当前文件目录)查看  
+> 一般是在用户目录下，Mac在`/User/ccf`下，root后也是；Linux正常在`/hoem/admin`下，root后在`/root`目录下，可以在vim后的界面用[:pwd命令](https://www.google.com/search?q=pwd%E5%91%BD%E4%BB%A4&oq=pwd&aqs=chrome.1.69i57j0i512l5j46i512j0i512l2j46i512.2146j0j7&sourceid=chrome&ie=UTF-8)(print work directory，查看当前文件目录)查看  
 
 ## linux下
 
@@ -28,4 +28,12 @@ Mac下正常vim后的文件位置：
 
 ![截屏2021-11-12 09 18 21](https://user-images.githubusercontent.com/74129445/141392271-e016b9f2-f0ad-452e-9ff9-8f719a1eec42.png)  
 
+
+Mac下root后vim后的文件位置：  
+
+![截屏2021-11-12 09 20 11](https://user-images.githubusercontent.com/74129445/141392509-acbc23c8-cb72-4c2d-9bdd-f0d649f47ef0.png)  
+
+无法新建，打开的还是之前在`/User/ccf`目录下vim的`helloworld.c`文件  
+
+![截屏2021-11-12 09 20 18](https://user-images.githubusercontent.com/74129445/141392632-cee9a2ce-f4d5-49cc-b1e8-cafe52531fe0.png)
 
