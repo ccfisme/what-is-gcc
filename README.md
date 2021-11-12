@@ -3,7 +3,7 @@
 linux下正常vim后的文件位置：
 ![截屏2021-11-12 09 11 08](https://user-images.githubusercontent.com/74129445/141391878-f4923e58-6cac-4b25-9c1f-cb8931a38ad0.png)  
 里面的内容是我在阿里云远程连接时用的admin下的vim写的：  
-![Uploading 截屏2021-11-12 09.11.19.png…]()  
+![截屏2021-11-12 09 11 19](https://user-images.githubusercontent.com/74129445/141391970-bafd2c5d-03e3-4f0c-b44c-bdcdad3ad0b5.png)  
 
 
 linux下root后vim后的文件位置：  
