@@ -32,7 +32,8 @@
   
   但不能写  
   
-  ![截屏2021-11-13 11 21 09](https://user-images.githubusercontent.com/74129445/141603958-e093717c-e699-45ec-b252-43d26d4fba5a.png)  
+  ![截屏2021-11-13 11 22 10](https://user-images.githubusercontent.com/74129445/141603992-909262fb-fb88-42ff-a15c-50883905a4de.png)  
+  
   
   * linux  
 ### root后用户
