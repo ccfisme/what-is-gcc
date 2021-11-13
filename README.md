@@ -23,6 +23,9 @@
   ![截屏2021-11-13 11 18 50](https://user-images.githubusercontent.com/74129445/141603882-5494891b-252b-4ffe-9cb6-28a41062721b.png)  
   
   * linux  
+
+  ![截屏2021-11-13 11 30 37](https://user-images.githubusercontent.com/74129445/141604146-57a79141-c1db-4aaa-aa0b-66f36f3d9976.png)  
+  
   
 * `cd /`后  
 
@@ -36,8 +39,10 @@
   
   
   * linux  
+  
+  
+  
 ### root后用户  
-### 普通用户
 
 * 一般默认  
 
