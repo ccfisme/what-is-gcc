@@ -7,10 +7,10 @@
 ### 普通用户  
 
 * 一般默认是在用户目录～下，Mac在`/User/ccf`下；Linux在`/home/admin`下
-* `cd /`后，Mac是在`/`下，Linux在`/`下
+* `cd /`后，Mac是在`/`下(不能保存)，Linux在`/`下(不能保存)
 ### root后用户
 * 一般默认是在用户目录～下，Mac在`/User/ccf`下；Linux在`/root`下
-* `cd /`后，Mac是在`/`下，Linux在`/`下
+* `cd /`后，Mac是在`/`下(不能保存)，Linux在`/`下(可以保存)
 
 ## 实践  
 
@@ -39,6 +39,12 @@
   
   
   * linux  
+
+  ![截屏2021-11-13 11 33 25](https://user-images.githubusercontent.com/74129445/141604232-c522fd3c-ab7e-4997-ad58-15d790026e68.png)  
+  
+  但不能写  
+  
+  ![截屏2021-11-13 11 34 16](https://user-images.githubusercontent.com/74129445/141604249-bfa30b38-ed7c-4d0a-bdf2-da0186bdbd78.png)  
   
   
   
@@ -51,6 +57,10 @@
   ![截屏2021-11-13 11 25 52](https://user-images.githubusercontent.com/74129445/141604040-dbbabad0-7504-4d0a-b119-a334864507d1.png)  
   
   * linux  
+
+  ![截屏2021-11-13 11 36 02](https://user-images.githubusercontent.com/74129445/141604294-a9d547d1-574b-4183-8cdc-5ca74563b36e.png)  
+  
+
   
 * `cd /`后  
 
@@ -63,12 +73,13 @@
   ![截屏2021-11-13 11 28 03](https://user-images.githubusercontent.com/74129445/141604092-cc0c3b3d-126b-4438-96ac-147287c4d96b.png)  
   
 
-  
-    
-  
-  
   * linux  
 
+  ![截屏2021-11-13 11 37 28](https://user-images.githubusercontent.com/74129445/141604336-14c73aec-968b-4ce8-9d75-c69419e61dcb.png)  
+  
+  可以写  
+  
+  ![截屏2021-11-13 11 38 01](https://user-images.githubusercontent.com/74129445/141604342-efc67dff-0847-4642-b623-f9aecb24d148.png)
 
 
 
