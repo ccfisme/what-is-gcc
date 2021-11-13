@@ -36,4 +36,46 @@
   
   
   * linux  
-### root后用户
+### root后用户  
+### 普通用户
+
+* 一般默认  
+
+  * mac  
+  
+  ![截屏2021-11-13 11 25 52](https://user-images.githubusercontent.com/74129445/141604040-dbbabad0-7504-4d0a-b119-a334864507d1.png)  
+  
+  * linux  
+  
+* `cd /`后  
+
+  * mac  
+  
+  ![截屏2021-11-13 11 27 25](https://user-images.githubusercontent.com/74129445/141604068-a8ee99dd-fbb0-45f9-b0a1-68279d8b6b99.png)  
+  
+  但也不能写  
+  
+  ![截屏2021-11-13 11 28 03](https://user-images.githubusercontent.com/74129445/141604092-cc0c3b3d-126b-4438-96ac-147287c4d96b.png)  
+  
+
+  
+    
+  
+  
+  * linux  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
